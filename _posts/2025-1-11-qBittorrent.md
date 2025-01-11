@@ -1,10 +1,10 @@
 ---
 title: qBittorrent 使用
-description: This is my first blog.
+description: 防吸血大招
 author: AImixAE
 date: 2025-1-11 14:00:00 +0800
-categories: [Blog, Temp]
-tags: [blog]
+categories: [Linux, Softwares]
+tags: [softwares]
 image:
     path: /assets/img/posts/2025-1-11-qBittorrent/St1.png
 ---
