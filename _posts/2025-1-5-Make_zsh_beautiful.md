@@ -17,8 +17,8 @@ image:
 
 市面上很火的 `zsh` 插件有以下几个
 
--   `tmoe` 的 `zsh-i`
--   `oh-my-zsh`
+- `tmoe` 的 `zsh-i`
+- `oh-my-zsh`
 
 本篇我们主要介绍 `tmoe` 的美化教程
 
