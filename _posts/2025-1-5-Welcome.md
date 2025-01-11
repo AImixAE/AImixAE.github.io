@@ -23,19 +23,19 @@ image:
 
 喜欢的编程语言:
 
--   Python
--   Vue
--   HTML/CSS/JavaScript
--   C++
--   Rust
+- Python
+- Vue
+- HTML/CSS/JavaScript
+- C++
+- Rust
 
 我的标签:
 
--   Python
--   Arch User
--   Linux
--   Vue
--   Open Source
+- Python
+- Arch User
+- Linux
+- Vue
+- Open Source
 
 ## About This Blog
 
