@@ -1,5 +1,5 @@
 ---
-title: Flameshot
+title: Flameshot 使用
 description: 一款强大的截图工具
 author: AImixAE
 date: 2025-1-11 12:39:00 +0800
