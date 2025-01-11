@@ -42,7 +42,7 @@ paru -S qbittorrent-enhanced-git # 在 AUR 里安装
 
 ## 配置
 
-我们进入 [文档](https://docs.qq.com/doc/DQnJBTGJjSFZBR2JW) 找到 `对策A2`
+我们进入 [📋文档](https://docs.qq.com/doc/DQnJBTGJjSFZBR2JW) 找到 `对策A2`
 
 *或者是这个*:
 
@@ -67,3 +67,9 @@ paru -S qbittorrent-enhanced-git # 在 AUR 里安装
 最后，我们可以用 `qBittorrent` 下载各种资源了
 
 也不用担心 **吸血** 了🥳
+
+## 引用
+
+文章灵感来源💡: [如何在Linux实现qbittorrent防吸血](https://b23.tv/fWYhyQH)
+
+(已获得作者同意✅，且是朋友，且是作者让我收录的🤔)

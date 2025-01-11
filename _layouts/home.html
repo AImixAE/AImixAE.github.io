@@ -30,17 +30,7 @@ all_normal[i] %} {% endfor %} {% endif %}
 <h1>📃My Blog website🌍</h1>
 <p>☕作者: AImixAE Mocha</p>
 
-<div id="tools">
-  <h4>🛠️工具:</h4>
-
-  <script>
-    function updateBlog() {
-      const now = new Date().getTime();
-      window.location.href =
-        window.location.href.split("?")[0] + "?time=" + now;
-    }
-  </script>
-  <style>
+<style>
     .ubtn {
       border: 1px solid white;
       border-radius: 5px;
@@ -56,8 +46,36 @@ all_normal[i] %} {% endfor %} {% endif %}
         color: grey;
       }
     }
+    
+    .abtn {
+      border: 1px solid cyan;
+      border-radius: 5px;
+      padding: 9px 10px;
+      background: #2f2f2f;
+      color: white;
+
+      &:hover {
+        background: #3f3f3f;
+      }
+
+      &:active {
+        color: grey;
+      }
+    }
   </style>
 
+<div id="tools">
+  <h4>🛠️工具/🔗链接:</h4>
+
+  <script>
+    function updateBlog() {
+      const now = new Date().getTime();
+      window.location.href =
+        window.location.href.split("?")[0] + "?time=" + now;
+    }
+  </script>
+
+  <a class="abtn" href="https://AImixAE.github.io">🏠本站(githubPages)</a>
   <button id="updateBlog" onclick="updateBlog()" class="ubtn">更新内容</button>
 </div>
 
