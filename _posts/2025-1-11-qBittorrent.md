@@ -1,6 +1,6 @@
 ---
-title: qBittorrent 使用
-description: 防吸血大招
+title: 使用 qBittorrent 避免吸血
+description: 配置 pBittorrent 教程
 author: AImixAE
 date: 2025-1-11 14:00:00 +0800
 categories: [Linux, Softwares]
@@ -26,6 +26,9 @@ image:
 > 但是这样还是防不住他们，于是企业就弄了一些特殊的 `BT客户端`，以此共享用户们的带宽
 >
 > 这样就造成了 **吸血**
+>
+> *解释不是很准, 如有差错, 请及时指出!* 😆
+{: .prompt-tip }
 
 那么，如何在 `Arch Linux` 避免 **吸血** 呢?
 
@@ -70,6 +73,4 @@ paru -S qbittorrent-enhanced-git # 在 AUR 里安装
 
 ## 引用
 
-文章灵感来源💡: [如何在Linux实现qbittorrent防吸血](https://b23.tv/fWYhyQH)
-
-(已获得作者同意✅，且是朋友，且是作者让我收录的🤔)
+文章灵感来源💡: [如何在Linux实现qbittorrent防吸血](https://b23.tv/fWYhyQH) *(已获得作者同意✅，且是朋友，且是作者让我收录的🤔)*
