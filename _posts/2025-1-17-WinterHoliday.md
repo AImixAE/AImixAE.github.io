@@ -36,9 +36,5 @@ image:
 
 ## 下载
 
-这玩意先放 `github pages` 上吧
-
-下次换网盘
-
-整合包 `ver1.2`:
-[![Arona](/assets/img/posts/2025-1-17-WinterHoliday/icon.png){:width="25%"}](/assets/files/Winteroliday/寒假不欢整合包1.2.zip)
+整合包 `ver1.3`:
+[![Arona](/assets/img/posts/2025-1-17-WinterHoliday/icon.png){:width="25%"}](https://www.123684.com/s/OHeyVv-tX4QH)
