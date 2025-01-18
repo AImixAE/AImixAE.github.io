@@ -36,5 +36,8 @@ image:
 
 ## 下载
 
+所有版本整合包(提取码: `aHgp`):
+[![Arona](/assets/img/posts/2025-1-17-WinterHoliday/icon.png){:width="25%"}](https://www.123684.com/s/OHeyVv-zX4QH)
+
 整合包 `ver1.3`:
 [![Arona](/assets/img/posts/2025-1-17-WinterHoliday/icon.png){:width="25%"}](https://www.123684.com/s/OHeyVv-tX4QH)
