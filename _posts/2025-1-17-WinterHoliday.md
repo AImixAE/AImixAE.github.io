@@ -34,6 +34,12 @@ image:
 
 碎碎念: *(这玩意精简到我都忘了加什么东西了)*
 
+## 讨论群
+
+有什么有趣的都可以在这里分享
+
+[![QQgroup](/assets/img/posts/2025-1-17-WinterHoliday/QQgroup.jpg){:width="50%"}](https://qm.qq.com/q/onpi9yAH62)
+
 ## 下载
 
 所有版本整合包(提取码: `aHgp`):
