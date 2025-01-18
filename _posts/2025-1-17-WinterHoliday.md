@@ -32,7 +32,7 @@ image:
 
 还有一些我认为比较好看的材质包
 
-碎碎念: *(这玩意精简到我都忘了加什么东西了)*
+碎碎念: _(这玩意精简到我都忘了加什么东西了)_
 
 ## 讨论群
 
@@ -44,6 +44,3 @@ image:
 
 所有版本整合包(提取码: `aHgp`):
 [![Arona](/assets/img/posts/2025-1-17-WinterHoliday/icon.png){:width="25%"}](https://www.123684.com/s/OHeyVv-zX4QH)
-
-整合包 `ver1.3`:
-[![Arona](/assets/img/posts/2025-1-17-WinterHoliday/icon.png){:width="25%"}](https://www.123684.com/s/OHeyVv-tX4QH)
