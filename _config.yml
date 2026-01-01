@@ -16,17 +16,19 @@ timezone: Asia/Shanghai
 
 title: "AImixAE's blog" # the main title
 
-tagline: Make everything be easy # it will display as the subtitle
+tagline: 𝑆𝑖𝑚𝑝𝑙𝑖𝑐𝑖𝑡𝑦 𝑖𝑠 𝑡ℎ𝑒 𝑘𝑒𝑦 𝑡𝑜 ℎ𝑎𝑝𝑝𝑖𝑛𝑒𝑠𝑠. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  热爱编程的人
+  我是 𝔸𝕀𝕞𝕚𝕩𝔸𝔼 𝐍𝐲𝐚 𝐌𝐨𝐜𝐡𝐚 ꙳，一名朴实无华的喵娘喵
+  他 He/Him | INFP-T
+  𝑆𝑖𝑚𝑝𝑙𝑖𝑐𝑖𝑡𝑦 𝑖𝑠 𝑡ℎ𝑒 𝑘𝑒𝑦 𝑡𝑜 ℎ𝑎𝑝𝑝𝑖𝑛𝑒𝑠𝑠.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://aimixae.github.io"
+url: "https://AImixAE.github.io"
 
 github:
-  username: AImixAE # change to your GitHub username
+  username: "AImixAE Nya Mocha" # change to your GitHub username
 
 # twitter:
 #   username: twitter_username # change to your Twitter username
@@ -34,7 +36,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: AImixAE
+  name: "𝔸𝕀𝕞𝕚𝕩𝔸𝔼 𝐍𝐲𝐚 𝐌𝐨𝐜𝐡𝐚 ꙳"
   email: AImixAE@outlook.com # change to your email address
   links:
     - https://github.com/AImixAE
