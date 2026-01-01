@@ -21,7 +21,7 @@ _**愿此行，终抵群星。**_
 
 我是 **𝔸𝕀𝕞𝕚𝕩𝔸𝔼 𝐍𝐲𝐚 𝐌𝐨𝐜𝐡𝐚 ꙳**, 一名朴实无华的喵娘喵~
 
-<img src="assets/img/stickers/猫猫.gif" width=128 />
+<img src="assets/img/stickers/猫猫.gif" width=128 alt="猫猫" />
 
 他 He/Him | INFP-T
 
@@ -67,22 +67,9 @@ Bio: **𝑆𝑖𝑚𝑝𝑙𝑖𝑐𝑖𝑡𝑦 𝑖𝑠 𝑡ℎ𝑒 𝑘𝑒�
 
 😸 本喵的 Github 喵: [𝔸𝕀𝕞𝕚𝕩𝔸𝔼 𝐍𝐲𝐚 𝐌𝐨𝐜𝐡𝐚 ꙳](https://github.com/AImixAE)
 
-## 📈 最近规划
-
-<details>
-
-|项目|作用|进度|
-|---|---|---|
-|**Pika**|基于 **Vue.js** 的易管理的博客、资源站网站|0%|
-|**勇之兽 Furry of Spirit**|一款含有福瑞元素的类肉鸽2D游戏|2%|
-|**勇之兽：派对 Furry of Spirit: Party**|一款大富翁/自走棋式2.5D游戏|0%|
-|**勇之兽：危险地带 Furry of Spirit: Warning Place**|一款全新的搜打撤 3D游戏|-114%|
-
-</details>
-
 ## 🐱 Github 详细信息
 
-![Snack](assets/img/img/snack.svg)
+![Snack](assets/img/public/snack.svg)
 
 ### 👀 Views
 
@@ -90,19 +77,8 @@ Bio: **𝑆𝑖𝑚𝑝𝑙𝑖𝑐𝑖𝑡𝑦 𝑖𝑠 𝑡ℎ𝑒 𝑘𝑒�
 
 ### ➕ Contributions
 
-![profile](https://github-profile-trophy.vercel.app/?username=AImixAE&row=2&column=5&theme=darkhub)
+请到 [My Profile](https://github.com/AImixAE) 中查看喵
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AImixAE&theme=dark&date_format=%5BY.%5Dn.j&locale=zh_Hans)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AImixAE&&locale=cn&theme=radical&show_icons=true)
-
-<details open>
-
-<summary>编程语言</summary>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AImixAE&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&layout=compact&bg_color=000000&locale=cn)
-
-</details>
 喵喵喵?
 
-<img src="assets/img/stickers/手手.gif" width=128 />
+<img src="assets/img/stickers/手手.gif" width=128 alt="手手" />
