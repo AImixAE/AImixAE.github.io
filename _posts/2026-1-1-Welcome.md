@@ -1,7 +1,7 @@
 ---
 title: Welcome!
 description: This is my first blog.
-author: AImixAE
+author: AImixAE Nya Mocha
 date: 2026-1-1 00:00:00 +0800
 categories: [Blog]
 tags: [blog]
